@@ -1,6 +1,6 @@
 <div align="center">
   
-  <h1 align="center">Neural Network Classifier</h1>
+  <h1 align="center">Image Classification</h1>
 </div>
 
 <details>
@@ -33,13 +33,19 @@ This project implements three types of networks with `PyTorch` and uses the `cif
 In this phase network is designed for `MNIST` dataset. Finall accuracy is 0.9682.  
 All further information about architecture of models and results are saved in the notebook.  
 
+![Example Run](./nn-result.png)
+
 <h3 id="Phase2">Convolutional Neural Network</h3>  
 
 In this phase network is designed for `cifar10` dataset. Finall accuracy is 0.7462.  
 All further information about architecture of models and results are saved in the notebook.  
+
+![Example Run](./cnn-result.png)
  
  
-it does not work well :(
+it does not work well :(  
+
+![Example Run](./cnn-result2.png)
 
 
 <h3 id="Phase3">ResNet</h3>  
@@ -48,7 +54,7 @@ In this phase network is designed for `cifar10` dataset. Finall accuracy is 0.90
 All further information about architecture of models and results are saved in the notebook.  
 
 <br/>
-<img src="./pictures/nonvb.png" height=400px width=400px/>
+![Example Run](./resnet-result.png)
 
 
 ## Contact
