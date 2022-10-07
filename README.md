@@ -53,7 +53,6 @@ it does not work well :(
 In this phase network is designed for `cifar10` dataset. Finall accuracy is 0.9090.  
 All further information about architecture of models and results are saved in the notebook.  
 
-<br/>
 ![Example Run](./resnet-result.png)
 
 
