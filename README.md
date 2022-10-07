@@ -9,13 +9,12 @@
     <li>
       <a href="#about-the-project">About The Project</a>
     </li>
-    
     <li>
       <a href="#Phases">Phases</a>
       <ul>
-        <li><a href="#Phase1">Simple neural network</a></li>
-        <li><a href="#Phase2">Convolutional neural network</a></li>
-        <li><a href="#Phase3">ResNet</a></li>
+        <li><a href="#Phase1">Simple Neural Network for MNIST dataset</a></li>
+        <li><a href="#Phase2">Convolutional Network for cifar10 dataset</a></li>
+        <li><a href="#Phase3">ResNet for cifar10 dataset</a></li>
       </ul>
     </li>
     <li><a href="#contact">Contact</a></li> 
